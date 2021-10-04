@@ -135,13 +135,14 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-email-protect
-  - jekyll-github-metadata
-  - jekyll-feed
-  - jekyll-paginate-v2
   - jekyll/scholar
-  - jekyll-twitter-plugin
+  - jekyll-email-protect
+  - jekyll-feed
+  - jekyll-github-metadata
+  - jekyll-paginate-v2
   - jekyll-sitemap
+  - jekyll-target-blank
+  - jekyll-twitter-plugin
   - jemoji
 
 # Extras
