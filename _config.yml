@@ -65,6 +65,8 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
+rss_icon: true
+
 contact_note: >
   You can reach me on any of these plataforms.
 
