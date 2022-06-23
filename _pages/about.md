@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: University of Washington • Department of Global Health
+description: University of Washington
 
 profile:
   align: right
