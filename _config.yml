@@ -144,6 +144,7 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-sitemap
   - jemoji
+  - jekyll-target-blank
 
 # Extras
 github: [metadata]
