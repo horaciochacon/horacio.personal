@@ -136,15 +136,18 @@ keep_files:
 
 # Plug-ins
 plugins:
+  - jekyll-archives
+  - jekyll-diagrams
   - jekyll-email-protect
-  - jekyll-github-metadata
   - jekyll-feed
+  - jekyll-imagemagick
+  - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
-  - jekyll-twitter-plugin
   - jekyll-sitemap
+  - jekyll-link-attributes
+  - jekyll-twitter-plugin
   - jemoji
-  - jekyll-target-blank
 
 # Extras
 github: [metadata]
